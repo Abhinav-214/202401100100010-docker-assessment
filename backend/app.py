@@ -105,3 +105,4 @@ if __name__ == "__main__":
     # Exit promptly on `docker stop` instead of waiting to be killed.
     signal.signal(signal.SIGTERM, lambda *_: sys.exit(0))
     app.run(host="0.0.0.0", port=5000)
+

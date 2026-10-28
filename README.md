@@ -5,8 +5,8 @@
 - **Class:** CS - A
 - **Registration Number:** 202401100100010
 - **Assigned Port:** 8010 (calculated using rule: 80 + last 2 digits of REGNO -> 80 + 10 = 8010)
-- **Docker Hub Username:** abhinav214
-- **Docker Hub Link:** https://hub.docker.com/r/abhinav214/fest-backend
+- **Docker Hub Username:** abhinav7788
+- **Docker Hub Link:** https://hub.docker.com/r/abhinav7788/fest-backend
 
 ---
 
